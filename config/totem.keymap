@@ -22,10 +22,10 @@
 #define CONN  3
 
 &mt {
-  quick-tap-ms = <120>;
+  quick-tap-ms = <160>;
   global-quick-tap;
   flavor = "tap-preferred";
-  tapping-term-ms = <150>;
+  tapping-term-ms = <160>;
 };
 
 / {
